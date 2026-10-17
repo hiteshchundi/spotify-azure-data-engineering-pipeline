@@ -1,0 +1,15 @@
+{
+	"name": "hitzhraj-project-1-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d78c8d3-92c2-4452-bde4-11b59f87a969",
+		"tenantId": "cd7278cb-3d5d-49c4-9ebf-62f97bc4bb4d"
+	}
+}
